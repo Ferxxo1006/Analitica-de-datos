@@ -3,7 +3,7 @@ Acercamiento  de herramientas de analitica de negocios como Power BI, SQL, Pytho
 # Que mas Pues ?
 ## Estudiante de adminstracion de empresas 
 ### UEC
-#### Solo fans de malua y del buen codigo
+#### Solo fans de maluma y del buen codigo
 ##### Soy Believer 
 ###### Trastorno dfel rayo mqueen
 
